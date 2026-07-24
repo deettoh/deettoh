@@ -26,6 +26,7 @@
 | [**RL Agent for Virtual Pickleball**](https://github.com/deettoh/dpickleball-rl-agent) | A PPO agent for the dPickleBall Unity competition, trained with a calibrated simulator, curriculum learning, Unity fine-tuning, and self-play. | PyTorch · Stable-Baselines3 · OpenCV |
 | [**Multi-Class Skin Lesion Classifiers**](https://github.com/deettoh/skin-lesion-classification) | Built a custom CNN and a novel KAN-ViT hybrid architecture from scratch for multi-class skin lesion classification, then benchmarked them against each other. | PyTorch · CNN · KAN-ViT |
 | [**Community Disaster Readiness Platform**](https://github.com/deettoh/disaster-readiness) | A community disaster-readiness app with image-based hazard recognition, reporter privacy blurring, and evacuation routing. | FastAPI · React · PostGIS |
+| [**Aerial Pineapple Detection and Counting**](https://github.com/deettoh/aerial_pineapple_drone) *(freelance)* | A drone-imagery pipeline that tiles georeferenced orthomosaics, detects and counts pineapple plants with a fine-tuned YOLOv10, and exports a georeferenced shapefile of plant locations. | YOLOv10 · Ultralytics · GeoPandas |
 | [**DocRAG: AI PDF Study Tool**](https://github.com/deettoh/doc-rag) | A full-stack AI study tool producing PDF summaries with page citations, study questions, and answer grading, powered by a retrieval-augmented generation pipeline. | FastAPI · pgvector · Llama 3.1 |
 
 ---
@@ -52,6 +53,7 @@
 ![timm](https://img.shields.io/badge/timm-4E5D6C?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-042AFF?style=flat)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat)
 ![ML-Agents](https://img.shields.io/badge/ML--Agents-222C37?style=flat&logo=unity&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
@@ -61,6 +63,8 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat)
+![Rasterio](https://img.shields.io/badge/Rasterio-3776AB?style=flat)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
