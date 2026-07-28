@@ -22,7 +22,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Budget-Aware Agentic RAG** | Extends the Search-R1 agentic RAG framework with a learned budget-planning mechanism, where the policy declares its own retrieval budget as the first action of each trajectory and trains under a cost-penalized reward to reduce inference cost while preserving answer quality on multi-hop QA. | PyTorch · veRL · vLLM · QLoRA |
+| [**Budget-Aware Agentic RAG**](https://github.com/deettoh/budget-r1) | Extends the Search-R1 agentic RAG framework with a learned budget-planning mechanism, where the policy declares its own retrieval budget as the first action of each trajectory and trains under a cost-penalized reward to reduce inference cost while preserving answer quality on multi-hop QA. | PyTorch · veRL · vLLM · QLoRA |
 | [**RL Agent for Virtual Pickleball**](https://github.com/deettoh/dpickleball-rl-agent) | A PPO agent for the dPickleBall Unity competition, trained with a calibrated simulator, curriculum learning, Unity fine-tuning, and self-play. | PyTorch · Stable-Baselines3 · OpenCV |
 | [**Multi-Class Skin Lesion Classifiers**](https://github.com/deettoh/skin-lesion-classification) | Built a custom CNN and a novel KAN-ViT hybrid architecture from scratch for multi-class skin lesion classification, then benchmarked them against each other. | PyTorch · CNN · KAN-ViT |
 | [**Community Disaster Readiness Platform**](https://github.com/deettoh/disaster-readiness) | A community disaster-readiness app with image-based hazard recognition, reporter privacy blurring, and evacuation routing. | FastAPI · React · PostGIS |
